@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+Learning this coding thing one step at a time.  Easy does it.  
